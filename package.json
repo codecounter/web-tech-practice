@@ -1,0 +1,10 @@
+{
+  "name": "web-tech-practice",
+  "version": "0.0.1",
+  "scripts": {
+    "lite-server": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
