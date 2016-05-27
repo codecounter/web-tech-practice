@@ -1,0 +1,13 @@
+{
+  "name": "mocha-started",
+  "version": "0.0.1",
+  "scripts": {
+    "mocha": "mocha",
+    "mocha-async": "mocha async.js",
+    "mocha-hooks": "mocha hooks.js"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
